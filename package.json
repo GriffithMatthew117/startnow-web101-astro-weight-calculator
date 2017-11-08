@@ -1,5 +1,6 @@
 {
-    "name": "project-js-astro-weight",
+    "name": "project-js-astro-weight", 
+    "description": "This tells your weight on other planets",
     "version": "0.1.0",
     "scripts": {
         "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\"",
